@@ -14,7 +14,7 @@ SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 [compat]
 Graphs = "1.5"
 LayeredLayouts = "0.2.4"
-MetaGraphs = "0.7"
+MetaGraphs = "0.7, 0.8"
 Plots = "1, 2"
 RecipesBase = "1"
 julia = "1"
